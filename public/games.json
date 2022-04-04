@@ -1,0 +1,43 @@
+[{
+        "name": "Grand Theft Auto V",
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "name": "Portal 2",
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://pivigames.blog/wp-content/uploads/2018/07/portal-2-mac-2844-0-min.jpg"
+    },
+    {
+        "name": "Elden Ring",
+        "rating": 4.7,
+        "released": "2022-01-20",
+        "updated": "2022-03-31",
+        "background_image": "https://as01.epimg.net/meristation/imagenes/2021/06/15/noticias/1623730478_051939_1623730612_noticia_normal.jpg"
+    },
+    {
+        "name": "Super Mario Odyssey",
+        "rating": 4.62,
+        "released": "2021-07-28",
+        "updated": "2022-02-07",
+        "background_image": "https://consejosjuegospro.com/wp-content/uploads/2022/02/Super-Mario-Odyssey-2-Fecha-de-lanzamiento-Rumores-noticias-filtraciones.jpg"
+    },
+    {
+        "name": "God of War 5",
+        "rating": 4.48,
+        "released": "2011-09-17",
+        "updated": "2022-03-10",
+        "background_image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gof-of-war-ragnarok-portada-1631262719.jpg?resize=768:*"
+    },
+    {
+        "name": "Horizon Zero Dawn",
+        "rating": 4.62,
+        "released": "2020-10-18",
+        "updated": "2022-02-03",
+        "background_image": "https://i.blogs.es/7176e6/horizon-zero-dawn/1024_2000.jpeg"
+    }
+]
